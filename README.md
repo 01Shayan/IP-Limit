@@ -45,6 +45,7 @@ And Then you need install these libraries:
 
 ```bash
 pip install websockets
+pip install requests
 pip install pytz
 ```
 
