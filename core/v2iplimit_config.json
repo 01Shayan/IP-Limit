@@ -1,0 +1,23 @@
+{
+    "WRITE_LOGS_TF": "True",
+    "SEND_LOGS_TO_TEL": "True",
+    "LIMIT_NUMBER": 2,
+    "LOG_FILE_NAME": "log_file_name.log",
+    "TELEGRAM_BOT_URL": "https://api.telegram.org/bot[token]/sendMessage",
+    "CHAT_ID": 10101010,
+    "EXCEPT_USERS": [
+        "user1",
+        "admin2131"
+    ],
+    "PANEL_USERNAME": "user",
+    "PANEL_PASSWORD": "pass",
+    "PANEL_DOMAIN": "sub.doman.com:port",
+    "TIME_TO_CHECK": 300,
+    "INACTIVE_DURATION": 600,
+    "SPECIAL_LIMIT": [
+        ["user1234132", 4],
+        ["user2231596", 1]
+    ],
+    "SERVER_NAME": "... VPN",
+    "PRETTY_PRINT": "True"
+}
